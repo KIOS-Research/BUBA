@@ -3,11 +3,11 @@ d.unload
 catch ERR
 end 
 fclose all;clear class;clear;clc;close all;
-% addpath(genpath(pwd));
-load_paths()
+addpath(genpath(pwd));
+% load_paths()
 
 %% Simulation settings:
-ihiseOverwrite = 0;
+ihiseOverwrite = 0; % requires Gurobi and to uncomment load_paths()
 mcsOverwrite = 0;
 bubaOverwrite = 1;
 allOverwrite = 1;
