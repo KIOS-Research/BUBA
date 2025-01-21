@@ -1,3 +1,7 @@
+﻿<a href="http://www.kios.ucy.ac.cy"><img src="https://www.kios.ucy.ac.cy/wp-content/uploads/2021/07/Logotype-KIOS.svg" width="200" height="100"/><a>
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.proeng.2015.08.914-blue?style=flat&logo=doi&logoColor=white)](https://doi.org/10.1016/j.proeng.2015.08.914)  
+
 # The Backtracking Uncertainty Bounding Algorithm (BUBA)
 The estimation of chlorine concentration in water distribution networks is a challenging task due to hydraulic and water-quality parameter uncertainties. In this work we propose a methodology for calculating chlorine concentration bounds at node locations of water distribution networks which is suitable for sensor fault and contamination detection purposes. The proposed Backtracking Uncertainty Bounding Algorithm (BUBA) considers known bounds on hydraulic states and water-quality model parameters to calculate the chlorine concentration bounds. The validity of the calculated bounds is demonstrated using a large number of Monte-Carlo simulations on benchmark networks.
 
